@@ -1,0 +1,17 @@
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\bin\Debug\net6.0-windows\AES_Encryption_App.exe
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\bin\Debug\net6.0-windows\AES_Encryption_App.deps.json
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\bin\Debug\net6.0-windows\AES_Encryption_App.runtimeconfig.json
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\bin\Debug\net6.0-windows\AES_Encryption_App.dll
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\bin\Debug\net6.0-windows\AES_Encryption_App.pdb
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.csproj.AssemblyReference.cache
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.Form1.resources
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.csproj.GenerateResource.cache
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.AssemblyInfoInputs.cache
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.AssemblyInfo.cs
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.csproj.CoreCompileInputs.cache
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.dll
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\refint\AES_Encryption_App.dll
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.pdb
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\AES_Encryption_App.genruntimeconfig.cache
+C:\Users\31683\Desktop\azure examples\AES_Encryption_App\AES_Encryption_App\obj\Debug\net6.0-windows\ref\AES_Encryption_App.dll

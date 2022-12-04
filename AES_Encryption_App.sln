@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES_Encryption_App", "AES_Encryption_App\AES_Encryption_App.csproj", "{C5838E4D-DD53-40C2-926C-28D887D280CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5838E4D-DD53-40C2-926C-28D887D280CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5838E4D-DD53-40C2-926C-28D887D280CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5838E4D-DD53-40C2-926C-28D887D280CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5838E4D-DD53-40C2-926C-28D887D280CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A6516A-A82C-48D0-A092-12672C6E8707}
+	EndGlobalSection
+EndGlobal
